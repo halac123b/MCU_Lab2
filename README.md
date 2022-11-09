@@ -1,1 +1,1 @@
-# MCU_Lab2
+# MCU_Lab2_Exercise 1
